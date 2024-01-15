@@ -1,10 +1,11 @@
 {
     "name": "FitnessGramRobots",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/PrinceBunBun981/FirnessGramRobots",
     "description": "Replaces the Toy Robot noices with the entire FitnessGram PACER Test.",
     "dependencies": [
         "no00ob-LCSoundTool-1.4.0",
-        "Clementinise-CustomSounds-2.2.0"
+        "Clementinise-CustomSounds-2.2.0",
+        "BepInEx-BepInExPack-5.4.2100"
     ]
 }
