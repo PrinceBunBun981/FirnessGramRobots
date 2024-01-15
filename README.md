@@ -1,1 +1,1 @@
-Replaces the Toy Robot noices with the entire FitnessGram PACER Test.
+Replaces the Toy Robot noises with the entire FitnessGram PACER Test.
